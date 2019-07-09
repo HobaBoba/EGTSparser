@@ -7,10 +7,8 @@
 #include <iterator>
 #include <cstring>
 #include <iomanip>
-
 #include "main.h"
 #include "CRC.h"
-
 
  
 int main()
